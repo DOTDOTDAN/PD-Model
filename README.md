@@ -1,4 +1,4 @@
-# PD Model — Credit Approval Case Study
+# PD Model
 
 A Probability of Default (PD) model built on an applicant-level credit dataset. Includes EDA, feature engineering, a leakage-free preprocessing pipeline, a logistic regression baseline with full discrimination/calibration evaluation, and a decisioning + explainability layer translating PD scores into an approve/review/decline policy.
 
